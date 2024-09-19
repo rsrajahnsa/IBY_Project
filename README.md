@@ -69,7 +69,7 @@ Start the Client
 ### Notifications 
 ![](https://github.com/rsrajahnsa/IBY_Project/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/rsrajahnsa/IBY_Project/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/rsrajahnsa/IBY_Project/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
 ![](https://github.com/rsrajahnsa/IBY_Project/blob/master/screenshots/profile.PNG)
 ## Made By
