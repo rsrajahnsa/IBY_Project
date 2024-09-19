@@ -52,7 +52,6 @@ Start the Client
   npm start
 ```
 
-  
 # Features
 
 ### Authenticaton
@@ -67,7 +66,7 @@ Start the Client
 ### Create Group Chats
 ![](https://github.com/rsrajahnsa/IBY_Project/blob/master/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/rsrajahnsa/IBY_Project/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/rsrajahnsa/IBY_Project/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
 ![](https://github.com/rsrajahnsa/IBY_Project/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
